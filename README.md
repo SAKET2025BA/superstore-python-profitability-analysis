@@ -39,8 +39,6 @@ This project examines sales and profitability patterns in the Superstore dataset
 
 ## Project Structure
 
-## Project Structure
-
 ├── data/
 │   └── superstore.csv
 │
