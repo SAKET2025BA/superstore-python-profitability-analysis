@@ -39,13 +39,10 @@ This project examines sales and profitability patterns in the Superstore dataset
 
 ## Project Structure
 
-├── data/
-│   └── superstore.csv
-│
-├── notebooks/
-│   └── Day_19_20_Python_Superstore_Analysis.ipynb
-│
-└── README.md
+├── Day_19_20_Python_Superstore_Analysis.ipynb   # Main analysis notebook
+├── superstore.csv                              # Superstore transactional dataset
+└── README.md                                   # Project documentation
+
 
 
 ## Key Business Insights
@@ -88,6 +85,7 @@ MBA – Business Analytics
 
 ## How to Run
 
-1. Open the notebook inside the `notebooks/` folder  
-2. Ensure the dataset is available in the `data/` folder  
+1. Open `Day_19_20_Python_Superstore_Analysis.ipynb`
+2. Ensure `superstore.csv` is in the same directory
 3. Run all cells sequentially
+
